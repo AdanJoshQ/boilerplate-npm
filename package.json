@@ -8,7 +8,7 @@
 		"start": "node server.js"
 	},
 	"repository": {
-		"type": "git",
+		"type": "Adan Josh Quiambao",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
